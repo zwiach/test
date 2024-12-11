@@ -1,0 +1,6 @@
+[core]
+    sshCommand = "ssh -i ~/.ssh/zwiach "
+
+[user]
+    name = Volodymyr Basok
+    email = volodia.tsviakh@gmail.com
